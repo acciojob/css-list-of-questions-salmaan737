@@ -14,7 +14,7 @@ body {
   margin-top: 20px;
 }
 
-.question {
+.questions {
   background-color: #f8fffe;
   padding: 15px;
   max-width: 600px;
@@ -22,7 +22,7 @@ body {
   margin-bottom: 10px;
 }
 
-.question p {
+.questions p {
   margin: 0;
   font-size: 16px;
 }
